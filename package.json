@@ -1,0 +1,14 @@
+{
+  "name": "jest-non-modular-demo",
+  "version": "1.0.0",
+  "description": "Demo to show how non-modular JS code can be tested with jest",
+  "main": "index.js",
+  "author": "Jan Wedel",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
